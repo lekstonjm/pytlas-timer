@@ -7,9 +7,7 @@ import re
 
 # This entity will be shared among training data since it's not language specific
 
-en_skill = """
-Timer skill {0} countdown time for you to make a boiled egg a success every time. Simpy ask start a timer for 3 minutes and wait ... 
-"""
+en_skill = """Timer skill {0} countdown time for you to make a boiled egg a success every time. Simpy ask start a timer for 3 minutes and wait ..."""
 
 
 @training('en')
